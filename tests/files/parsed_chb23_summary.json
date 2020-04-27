@@ -1,0 +1,44 @@
+{"patient": {"id": "chb23"}, "edf_files": {"chb23_06.edf": {"edf_file_name": "chb23_06.edf", "eeg_start_time": "08:57:57", 
+"eeg_end_time": "11:02:43", "seizure_count": 1, "file_number": "06", "channels": {"1": "FP1-F7", "2": "F7-T7", "3": 
+"T7-P7", "4": "P7-O1", "5": "FP1-F3", "6": "F3-C3", "7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", "10": "F4-C4", "11": 
+"C4-P4", "12": "P4-O2", "13": "FP2-F8", "14": "F8-T8", "15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", "18": "CZ-PZ", "19": 
+"P7-T7", "20": "T7-FT9", "21": "FT9-FT10", "22": "FT10-T8", "23": "T8-P8"}, "seizures": {"1": {"start": 3962, "end": 
+4075}}}, "chb23_07.edf": {"edf_file_name": "chb23_07.edf", "eeg_start_time": "11:03:16", "eeg_end_time": "11:45:56", 
+"seizure_count": 0, "file_number": "07", "channels": {"1": "FP1-F7", "2": "F7-T7", "3": "T7-P7", "4": "P7-O1", "5": 
+"FP1-F3", "6": "F3-C3", "7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", "10": "F4-C4", "11": "C4-P4", "12": "P4-O2", "13": 
+"FP2-F8", "14": "F8-T8", "15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", "18": "CZ-PZ", "19": "P7-T7", "20": "T7-FT9", "21": 
+"FT9-FT10", "22": "FT10-T8", "23": "T8-P8"}, "seizures": {}}, "chb23_08.edf": {"edf_file_name": "chb23_08.edf", 
+"eeg_start_time": "11:48:05", "eeg_end_time": "14:40:27", "seizure_count": 2, "file_number": "08", "channels": {"1": 
+"FP1-F7", "2": "F7-T7", "3": "T7-P7", "4": "P7-O1", "5": "FP1-F3", "6": "F3-C3", "7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", 
+"10": "F4-C4", "11": "C4-P4", "12": "P4-O2", "13": "FP2-F8", "14": "F8-T8", "15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", 
+"18": "CZ-PZ", "19": "P7-T7", "20": "T7-FT9", "21": "FT9-FT10", "22": "FT10-T8", "23": "T8-P8"}, "seizures": {"1": 
+{"start": 325, "end": 345}, "2": {"start": 5104, "end": 5151}}}, "chb23_09.edf": {"edf_file_name": "chb23_09.edf", 
+"eeg_start_time": "14:40:47", "eeg_end_time": "18:41:13", "seizure_count": 4, "file_number": "09", "channels": {"1": 
+"FP1-F7", "2": "F7-T7", "3": "T7-P7", "4": "P7-O1", "5": "FP1-F3", "6": "F3-C3", "7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", 
+"10": "F4-C4", "11": "C4-P4", "12": "P4-O2", "13": "FP2-F8", "14": "F8-T8", "15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", 
+"18": "CZ-PZ", "19": "P7-T7", "20": "T7-FT9", "21": "FT9-FT10", "22": "FT10-T8", "23": "T8-P8"}, "seizures": {"1": 
+{"start": 2589, "end": 2660}, "2": {"start": 6885, "end": 6947}, "3": {"start": 8505, "end": 8532}, "4": {"start": 9580, 
+"end": 9664}}}, "chb23_10.edf": {"edf_file_name": "chb23_10.edf", "eeg_start_time": "18:41:40", "eeg_end_time": "22:41:40", 
+"seizure_count": 0, "file_number": "10", "channels": {"1": "FP1-F7", "2": "F7-T7", "3": "T7-P7", "4": "P7-O1", "5": 
+"FP1-F3", "6": "F3-C3", "7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", "10": "F4-C4", "11": "C4-P4", "12": "P4-O2", "13": 
+"FP2-F8", "14": "F8-T8", "15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", "18": "CZ-PZ", "19": "P7-T7", "20": "T7-FT9", "21": 
+"FT9-FT10", "22": "FT10-T8", "23": "T8-P8"}, "seizures": {}}, "chb23_16.edf": {"edf_file_name": "chb23_16.edf", 
+"eeg_start_time": "13:46:32", "eeg_end_time": "17:46:32", "seizure_count": 0, "file_number": "16", "channels": {"1": 
+"FP1-F7", "2": "F7-T7", "3": "T7-P7", "4": "P7-O1", "5": "FP1-F3", "6": "F3-C3", "7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", 
+"10": "F4-C4", "11": "C4-P4", "12": "P4-O2", "13": "FP2-F8", "14": "F8-T8", "15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", 
+"18": "CZ-PZ", "19": "P7-T7", "20": "T7-FT9", "21": "FT9-FT10", "22": "FT10-T8", "23": "T8-P8"}, "seizures": {}}, 
+"chb23_17.edf": {"edf_file_name": "chb23_17.edf", "eeg_start_time": "17:46:42", "eeg_end_time": "21:16:29", 
+"seizure_count": 0, "file_number": "17", "channels": {"1": "FP1-F7", "2": "F7-T7", "3": "T7-P7", "4": "P7-O1", "5": 
+"FP1-F3", "6": "F3-C3", "7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", "10": "F4-C4", "11": "C4-P4", "12": "P4-O2", "13": 
+"FP2-F8", "14": "F8-T8", "15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", "18": "CZ-PZ", "19": "P7-T7", "20": "T7-FT9", "21": 
+"FT9-FT10", "22": "FT10-T8", "23": "T8-P8"}, "seizures": {}}, "chb23_19.edf": {"edf_file_name": "chb23_19.edf", 
+"eeg_start_time": "02:28:28", "eeg_end_time": "6:28:28", "seizure_count": 0, "file_number": "19", "channels": {"1": 
+"FP1-F7", "2": "F7-T7", "3": "T7-P7", "4": "P7-O1", "5": "FP1-F3", "6": "F3-C3", "7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", 
+"10": "F4-C4", "11": "C4-P4", "12": "P4-O2", "13": "FP2-F8", "14": "F8-T8", "15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", 
+"18": "CZ-PZ", "19": "P7-T7", "20": "T7-FT9", "21": "FT9-FT10", "22": "FT10-T8", "23": "T8-P8"}, "seizures": {}}, 
+"chb23_20.edf": {"edf_file_name": "chb23_20.edf", "eeg_start_time": "06:28:36", "eeg_end_time": "7:52:05", "seizure_count": 
+0, "file_number": "20", "channels": {"1": "FP1-F7", "2": "F7-T7", "3": "T7-P7", "4": "P7-O1", "5": "FP1-F3", "6": "F3-C3", 
+"7": "C3-P3", "8": "P3-O1", "9": "FP2-F4", "10": "F4-C4", "11": "C4-P4", "12": "P4-O2", "13": "FP2-F8", "14": "F8-T8", 
+"15": "T8-P8", "16": "P8-O2", "17": "FZ-CZ", "18": "CZ-PZ", "19": "P7-T7", "20": "T7-FT9", "21": "FT9-FT10", "22": 
+"FT10-T8", "23": "T8-P8"}, "seizures": {}}}, "sampling_rate": 256, "edf_files_ordered": ["chb23_06.edf", "chb23_07.edf", 
+"chb23_08.edf", "chb23_09.edf", "chb23_10.edf", "chb23_16.edf", "chb23_17.edf", "chb23_19.edf", "chb23_20.edf"]}

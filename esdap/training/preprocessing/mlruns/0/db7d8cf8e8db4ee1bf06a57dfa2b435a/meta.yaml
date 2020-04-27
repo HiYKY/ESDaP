@@ -1,0 +1,15 @@
+artifact_uri: file:///storage/ESDaP/mlruns/0/db7d8cf8e8db4ee1bf06a57dfa2b435a/artifacts
+end_time: 1587830912300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: db7d8cf8e8db4ee1bf06a57dfa2b435a
+run_uuid: db7d8cf8e8db4ee1bf06a57dfa2b435a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1587830905335
+status: 4
+tags: []
+user_id: ubuntu
