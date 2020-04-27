@@ -99,7 +99,7 @@ and deploying models; mne [@Gramfort:2013], a package for exploring,
 visualizing, and analyzing human neurophysiological data such as EEG; 
 numba [@Lam:2015], an open source optimizing compiler for Python; numpy 
 [@numpy:2011], a package for scientific computing; pandas [@pandas:2020], 
-a package providing fast, flexible, and expressive data structures 
+a library providing fast, flexible, and expressive data structures 
 designed to make working with structured (tabular, multidimensional, 
 potentially heterogeneous) and time series data both easy and intuitive; 
 pywavelets [@Lee:2019], a package for wavelet analysis; scikit-learn 
@@ -108,8 +108,8 @@ learning; scipy [@Virtanen:2020], a package providing efficient numerical
 routines for numerical integration, interpolation, optimization, linear 
 algebra, and statistics; seaborn, a library for making statistical graphics 
 in Python; tensorflow [@Abadi:2015], an open source machine learning 
-framework; xgboost [@Chen:2016], a library which implements machine learning 
-algorithms under the Gradient Boosting framework.
+framework and xgboost [@Chen:2016], a library which implements machine 
+learning algorithms under the Gradient Boosting framework.
 
 `ESDaP` can be used to perform a systematic comparison of the performance of 
 several algorithms for seizure detection and/or prediction, in the exact same 
